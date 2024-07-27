@@ -77,3 +77,4 @@ To add images in blog articles, insert a folder in the `src/content/` directory,
 To change the theme colours of the site, edit the `src/styles/app.css` file.
 
 To change the fonts of the site, add your font files into `/public`, add it as a `@font-face` in the `src/styles/app.css` file, as a `fontFamily` in the `tailwind.config.js` file, and apply the new font class to the `body` tag in the `src/layouts/BaseLayout.astro` file.
+# gpob-cv
